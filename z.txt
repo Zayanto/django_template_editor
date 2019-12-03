@@ -1,0 +1,1 @@
+#Paste your HTML code here to convert it for django suitable web template.
